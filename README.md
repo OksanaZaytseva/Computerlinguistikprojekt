@@ -1,1 +1,1 @@
-# Computerlinguistikprojekt
+# Проект по компьютерной лингвистике 2023-2024
